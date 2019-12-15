@@ -17,46 +17,45 @@
 		<!-- Propper -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     
-		<!--bootstrap -->
+		<!--Bootstrap min.js-->
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 	
-	<nav class="navbar navbar-expand-lg navbar navbar-custom">
-  <span class="navbar-brand main-logo" href="#">Logo</span> 
-  <div class="collapse navbar-collapse" id="navbarText">
-    <ul class="navbar-nav ml-auto">
-      <li class="nav-item active">
-        <a class="nav-link" href="#">Home</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">About Us</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Product</a>
-      </li>
-	   <li class="nav-item">
-        <a class="nav-link" href="#">Contact Us</a>
-      </li>
-    </ul>
-  </div>
-</nav>
-
-	<h3 class="text-center">Lorem Ipsum</h3>
-	<h2 class="text-center">Nam condimentum quam quis eros maximus, in facilisis turpis commodo. </h2>
 	
+	<nav class="navbar navbar-expand-md navbar-light bg-dark fixed-top">
+		<a class="navbar-brand"></a> 
+        <button class="navbar-toggler bg-light" data-target="#nav" data-toggle="collapse" type="button"><span class="navbar-toggler-icon"></span></button>
+		<div class="collapse navbar-collapse justify-content-between" id="nav">
+			
+			<ul class="navbar-nav form-inline">
+				<li class="nav-item"><a class="nav-link text-light font-weight-bold px-3" href="#">Home</a></li>
+				<li class="nav-item"><a class="nav-link text-light font-weight-bold px-3" href="#">About Us</a></li>
+			</ul>
+			
+			<!-- On the right -->
+			<ul class="navbar-nav form-inline ml-3">
+					<li class="nav-item"><a class="nav-link text-light font-weight-bold px-3" href="#">Product</a></li>
+					<li class="nav-item"><a class="nav-link text-light font-weight-bold px-3" href="#">Shop</a></li>
+					<li class="nav-item"><a class="nav-link text-light font-weight-bold px-3" href="#">Contact</a></li>
+			</ul> 
+		</div>
+	</nav>
+
+
+
+	<h3 class="text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</h3>
 	<div class = "mainDiv">
 	<ul class = "mainUl">
-	<div class = "row icon">
-	 <a class="a fa fa-facebook-official" href="#" style="font-size:40px;color:blue" title= "Like us on Facebook"></a> 
+	<div class = "row divIcon">
+	 <li class="fa fa-facebook-official" href="#" style="font-size:40px;color:blue" title= "Like us on Facebook"> </li> 
+	</div>
  
+	<div class = "row divIcon ">
+	<li class="fa fa-twitter" title="Follow us on Twitter" style="font-size:40px;color:blue"></li>
 	</div>
 	
-	<div class = "row icon ">
-	<li class="a fa fa-twitter" title="Follow us on Twitter" style="font-size:40px;color:blue"></li>
-	</div>
 	
-	
-	<div class = "row icon">
-	<li class="a fa fa-instagram" title="Follow us on Instagram" style="font-size:40px;color:blue"></li>
+	<div class = "row divIcon">
+	<li class="fa fa-instagram" title="Follow us on Instagram" style="font-size:40px;color:blue"></li>
 	</div>
 	</ul>
 	</div>
