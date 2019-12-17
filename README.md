@@ -23,7 +23,7 @@ What is not allowed?
 ✕	Don't use images with identifiable brands to create a misleading association with a product or service.
 
 See more here:
-[Pixabay License]https://pixabay.com/service/license/
+[Pixabay License](https://pixabay.com/service/license/)
 
 
 # Installation
