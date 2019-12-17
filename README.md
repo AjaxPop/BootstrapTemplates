@@ -27,11 +27,7 @@ See more here:
 
 
 # Installation
-Git
-
-'''Git
-git clone https://github.com/AjaxPop/BootstrapTemplates.git
-'''
+Using Git[https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository]
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
