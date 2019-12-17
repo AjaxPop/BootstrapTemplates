@@ -15,7 +15,6 @@ What is allowed?
 ✓ You can make modifications to content from Pixabay.
 
 What is not allowed?
-Don't redistribute or sell someone else's Pixabay images or videos on other stock or wallpaper platforms.
 
 ✕	Don't sell unaltered copies of an image. e.g. sell an exact copy of a stock photo as a poster, print or on a physical product.
 
