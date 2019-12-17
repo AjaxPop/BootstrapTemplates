@@ -27,8 +27,7 @@ See more here:
 
 
 # Installation
-[Using Git](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
-
+[Cloning a repository](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
 
 # License
 [MIT](https://choosealicense.com/licenses/mit/)
