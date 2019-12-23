@@ -1,7 +1,14 @@
 body{
-	background-color:#0FD1FE;
-}
+	 
+	background-attachment:fixed;
+	background-repeat:no-repeat;
+	background-size:cover;
+	-moz-background-size: cover;
+	-webkit-background-size: cover;
+	-o-background-size: cover;
+	background-position: center center; 
+	 
+   
 
-/* https://pixabay.com/photos/wintry-backcountry-skiiing-2068298/*/
-/* https://pixabay.com/photos/snowfall-winter-snow-snowflakes-201496/  */
-/* https://pixabay.com/photos/snow-mont-blanc-mountains-chamonix-3193865/ */
+}
+ 
