@@ -1,6 +1,6 @@
 body{
-	position:fixed;
-	background-color:#00B2B2;
+	 
+	 background-color:#00B2B2; 
 }
 
 nav {
@@ -17,17 +17,36 @@ background-color: #0D76F8;
 	 height:340px;
 	 left:0px;
  }
- 
-  .sectionOneText{ 
-	 position:fixed;
-	 padding: 210px 0;
-	 left:740px;
-	 color:#fff;
-  }
-  
-	#sectionOneButtons{
+
+ .sectionOne{
 	position:fixed;
-	top:300px;
-	left:740px;
-	margin-right:1px;
+	padding: 210px 0;
+	left:0;
+	color:#fff;
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-image: url("images/schrecksee.jpg"); /* Image from https://pixabay.com/photos/mountain-landscape-mountains-2031539/ / */ 
+	background-repeat:no-repeat;
+	background-size:cover; 
+	width:100%;
+	filter: brightness(85%);
+}
+ 
+	.sectionOneText{
+	position:fixed;
+	padding: 210px 0;
+	top:-140px;
+	left:630px;
+ }
+ 
+	#sectionOneButtons{
+		position:fixed;
+		top:380px;
+		left:770px;
+		margin-right:1px;
 	}
+
+
+
+ 
+	 
