@@ -16,19 +16,18 @@ background-color: #0D76F8;
 	 width:600px; 
 	 height:340px;
 	 left:0px;
- 
  }
  
   .sectionOneText{ 
 	 position:fixed;
 	 padding: 210px 0;
-	 left:800px;
+	 left:740px;
 	 color:#fff;
   }
   
 	#sectionOneButtons{
 	position:fixed;
-	top:32%;
-	left:42%;
-	margin-right:5px;
+	top:300px;
+	left:740px;
+	margin-right:1px;
 	}
