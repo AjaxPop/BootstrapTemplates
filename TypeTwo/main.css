@@ -29,7 +29,7 @@ background-color: #0D76F8;
 	background-repeat:no-repeat;
 	background-size:cover; 
 	width:100%;
-	filter: brightness(85%);
+	filter: brightness(65%);
 }
  
 	.sectionOneText{
@@ -47,6 +47,11 @@ background-color: #0D76F8;
 	}
 
 
-
+/* Stylize sectionTwo */
+	.sectionTwo{
+		position:fixed;
+		margin-top:460px;
+		margin-left:500px;
+	}
  
 	 
