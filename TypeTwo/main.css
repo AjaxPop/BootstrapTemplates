@@ -60,21 +60,29 @@ ul {
 
 .header {
 	font: italic 1.2em "Fira Sans", serif;
-	margin-left:35px;
+	margin-left:50px;
+ 
 }
 
 .price {
 	font: bold 25px  sans-serif;
-	margin-left:35px;
+	margin-left:50px;
+}
+
+hr{
+	border-color:black;
 }
 
 .item {
 	  font-size:15px;
 	 font-style:Helvetica;
-	 margin-left:35px;
+	 margin-left:50px;
 }
+ 
 
 .signUp{
-	margin-top:40px;
-	margin-left:35px;
+	margin-top:55px;
+	margin-left:50px;
 }
+
+
