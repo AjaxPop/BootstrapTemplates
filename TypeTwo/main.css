@@ -56,17 +56,24 @@ ul {
 	background-color:#fff;
 	width:250px;
 	height:250px;
+	border-color: black;
 }
 
 .header {
 	font: italic 1.2em "Fira Sans", serif;
-	margin-left:50px;
+	margin-left:80px;
+	color:#000;
  
 }
 
 .price {
 	font: bold 25px  sans-serif;
 	margin-left:50px;
+	color:#000;
+}
+
+.topPart{
+	background-color:#90ee90;
 }
 
 hr{
@@ -77,12 +84,13 @@ hr{
 	  font-size:15px;
 	 font-style:Helvetica;
 	 margin-left:50px;
+	 
 }
  
 
 .signUp{
 	margin-top:55px;
-	margin-left:50px;
+	margin-left:80px;
 }
 
 
