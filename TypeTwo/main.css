@@ -25,7 +25,7 @@ nav {
 	background-repeat: no-repeat;
 	background-size: cover;
 	width: 100%;
-	filter: brightness(65%);
+	filter: brightness(80%);
 }
 
 .sectionOneText {
@@ -38,8 +38,8 @@ nav {
 #sectionOneButtons {
 	position: fixed;
 	top: 380px;
-	left: 770px;
-	margin-right: 1px;
+	left:870px;
+ 
 }
 
 /* Stylize sectionTwo */
