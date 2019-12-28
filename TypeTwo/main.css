@@ -1,59 +1,66 @@
-body{
-	 
-	 background-color:#00B2B2; 
+body {
+	background-color: #00B2B2;
 }
 
 nav {
-background-color: #0D76F8;
-
-}	
-
+	background-color: #0D76F8;
+}
 
 /* Stylize sectionOne */
- 
- #clock{
-	 position:fixed;
-	 width:600px; 
-	 height:340px;
-	 left:0px;
- }
+#clock {
+	position: fixed;
+	width: 600px;
+	height: 340px;
+	left: 0px;
+}
 
- .sectionOne{
-	position:fixed;
+.sectionOne {
+	position: fixed;
 	padding: 210px 0;
-	left:0;
-	color:#fff;
-	background-repeat:no-repeat;
-	background-size:cover;
-	background-image: url("images/schrecksee.jpg"); /* Image from https://pixabay.com/photos/mountain-landscape-mountains-2031539/ / */ 
-	background-repeat:no-repeat;
-	background-size:cover; 
-	width:100%;
+	left: 0;
+	color: #fff;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-image: url("images/schrecksee.jpg"); /* Image from https://pixabay.com/photos/mountain-landscape-mountains-2031539/ / */
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
 	filter: brightness(65%);
 }
- 
-	.sectionOneText{
-	position:fixed;
-	padding: 210px 0;
-	top:-140px;
-	left:630px;
- }
- 
-	#sectionOneButtons{
-		position:fixed;
-		top:380px;
-		left:770px;
-		margin-right:1px;
-	}
 
+.sectionOneText {
+	position: fixed;
+	padding: 210px 0;
+	top: -140px;
+	left: 630px;
+}
+
+#sectionOneButtons {
+	position: fixed;
+	top: 380px;
+	left: 770px;
+	margin-right: 1px;
+}
 
 /* Stylize sectionTwo */
-	.sectionTwo{
-		position:fixed;
-		margin-top:460px;
-		margin-left:500px;
-		border-style: solid;
-		border-color: #fff;
-	}
- 
-	 
+.sectionTwo {
+	position: fixed;
+	margin-top: 460px;
+	margin-left: 500px;
+}
+ul {
+	list-style-type: none;
+}
+
+.header {
+	font: italic 1.2em "Fira Sans", serif;
+}
+
+.price {
+	font: bold 25px  sans-serif;
+}
+
+.item {
+	  font-size:15px;
+	 font-style:Helvetica;
+}
