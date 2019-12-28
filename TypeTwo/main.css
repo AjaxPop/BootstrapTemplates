@@ -1,5 +1,6 @@
 body {
 	background-color: #00B2B2;
+	overflow:show;
 }
 
 nav {
@@ -93,5 +94,13 @@ hr{
 	margin-top:55px;
 	margin-left:80px;
 }
+
+
+.sectionThree{
+		position:fixed;
+		margin-top:800px;
+}
+
+
 
 
