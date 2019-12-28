@@ -1,6 +1,6 @@
 body {
 	background-color: #00B2B2;
-	overflow:show;
+	 
 }
 
 nav {
@@ -96,9 +96,12 @@ hr{
 }
 
 
-.sectionThree{
+footer{
 		position:fixed;
-		margin-top:800px;
+		margin-top:850px;
+		width:500em;
+		height:10em;
+		background-color:#40E0D0;
 }
 
 
