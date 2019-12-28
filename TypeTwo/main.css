@@ -45,22 +45,36 @@ nav {
 /* Stylize sectionTwo */
 .sectionTwo {
 	position: fixed;
-	margin-top: 460px;
+	margin-top: 480px;
 	margin-left: 500px;
 }
 ul {
 	list-style-type: none;
 }
 
+.priceTable{
+	background-color:#fff;
+	width:250px;
+	height:250px;
+}
+
 .header {
 	font: italic 1.2em "Fira Sans", serif;
+	margin-left:35px;
 }
 
 .price {
 	font: bold 25px  sans-serif;
+	margin-left:35px;
 }
 
 .item {
 	  font-size:15px;
 	 font-style:Helvetica;
+	 margin-left:35px;
+}
+
+.signUp{
+	margin-top:40px;
+	margin-left:35px;
 }
