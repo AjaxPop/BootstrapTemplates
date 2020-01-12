@@ -26,7 +26,7 @@ nav {
 	background-repeat: no-repeat;
 	background-size: cover;
 	width: 100%;
-	filter: brightness(90%);
+	filter: brightness(85%);
 }
 
 .sectionOneText {
@@ -98,23 +98,24 @@ hr{
 /* Stylize footer  */
 footer{
 		position:fixed;
-		margin-top:850px;
-		width:500em;
-		height:10em;
+		margin-top:800px;
+		width:600em;
+		height:20em;
 		background-color:#00B2B2;
 }
 
-#contactText{
+#socialMedia{
 	position:fixed;
-	margin-left:850px;
+	float:left;
 }
 
 .divIcon{
-	cursor:pointer;
-	font-size:40px; 
 	display:inline-block;
-	margin-right:40px;
-	margin-left:10px;
+	cursor:pointer;
+	font-size:30px; 
+	margin-top:30px;
+	margin-right:5px;
+	margin-left:5px;
 }
 
 .fa {
@@ -122,4 +123,5 @@ footer{
 	
 }
 
+. 
 
