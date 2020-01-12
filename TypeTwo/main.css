@@ -98,47 +98,27 @@ hr{
 /* Stylize footer  */
 footer{
 		position:fixed;
-		margin-top:800px;
+		margin-top:740px;
 		width:600em;
 		height:20em;
 		background-color:#00B2B2;
 }
 
-.locationInfo{
-	display:block;
-	cursor:pointer;
-	font-size:30px; 
-	margin-right:0px;
-	margin-left:-15px;
-}
-
-  
- 
-
-
-#socialMediaText
-{
-	float:right;
-	position:fixed;
-	margin-top:-50px;
-	margin-left:50px;
-}
-
-.socialMediaIcons{
-	 margin-top:80px;
-	 margin-left:-50px;
-}
-
-
-.socialMediaDivIcon{
-	display:inline-block;
-	cursor:pointer;
-	font-size:30px; 
-	margin-right:0px;
-	margin-left:15px;
-}
-
-.fa {
-	color: #000;
+.locationText {
+  font-size:25px;
+  margin-top:15px;
 }
  
+ 
+.locationTextCC{
+    text-indent:0.8em; 
+}
+
+
+
+
+
+
+
+
+
