@@ -104,18 +104,26 @@ footer{
 		background-color:#00B2B2;
 }
 
-#socialMedia{
+#socialMediaText
+{
 	position:fixed;
+	margin-top:-50px;
+	margin-left:50px;
 	float:left;
 }
+
+.socialMediaIcons{
+	 margin-top:80px;
+	 margin-left:-50px;
+}
+
 
 .divIcon{
 	display:inline-block;
 	cursor:pointer;
 	font-size:30px; 
-	margin-top:30px;
-	margin-right:5px;
-	margin-left:5px;
+	margin-right:0px;
+	margin-left:15px;
 }
 
 .fa {
