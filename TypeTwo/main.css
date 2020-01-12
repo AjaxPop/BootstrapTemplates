@@ -114,13 +114,19 @@ footer{
 }
 
 .locationInfo{
-	display:inline-block;
+	display:block;
 	margin-right:0px;
 	margin-left:-50px;
 }
 
-.locationText{
-	   right: 555150px;
+.locationTextStreet{
+	 float:right;
+	 margin-right:-30px;
+}
+
+.locationTextCC{
+	 margin-right:-30px;
+ 
 }
 
 
