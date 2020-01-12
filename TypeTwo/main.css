@@ -104,11 +104,25 @@ footer{
 		background-color:#00B2B2;
 }
 
+
+.divLocationIcon{
+	display:block;
+	cursor:pointer;
+	font-size:30px; 
+	margin-right:0px;
+	margin-left:15px;
+}
+
 .locationInfo{
 	display:inline-block;
-	margin-top:80px;
+	margin-right:0px;
 	margin-left:-50px;
 }
+
+.locationText{
+	   right: 555150px;
+}
+
 
 #socialMediaText
 {
@@ -124,7 +138,7 @@ footer{
 }
 
 
-.divIcon{
+.socialMediaDivIcon{
 	display:inline-block;
 	cursor:pointer;
 	font-size:30px; 
