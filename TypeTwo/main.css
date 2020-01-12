@@ -104,30 +104,16 @@ footer{
 		background-color:#00B2B2;
 }
 
-
-.divLocationIcon{
+.locationInfo{
 	display:block;
 	cursor:pointer;
 	font-size:30px; 
 	margin-right:0px;
-	margin-left:15px;
+	margin-left:-15px;
 }
 
-.locationInfo{
-	display:block;
-	margin-right:0px;
-	margin-left:-50px;
-}
-
-.locationTextStreet{
-	 float:right;
-	 margin-right:-30px;
-}
-
-.locationTextCC{
-	 margin-right:-30px;
+  
  
-}
 
 
 #socialMediaText
