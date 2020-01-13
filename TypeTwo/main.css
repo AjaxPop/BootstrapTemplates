@@ -104,7 +104,7 @@ footer{
 	background-color:#00B2B2;
 }
 
-.locationText {
+.increaseSize {
 	font-size:25px;
 	margin-top:15px;
 }
@@ -116,9 +116,13 @@ footer{
 
 .socialMediaIcons{
 	 margin-left:95em;
-	 margin-top:-181px;
+	 margin-top:-185px;
 }
  
-
+.stylizeIcons{
+	display: inline-block;
+	margin-left:-30px; 
+	margin-right:120px; 
+}
 
 
