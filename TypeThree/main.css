@@ -45,15 +45,19 @@ nav {
 	display:inline-block;
 	width:75%;
 	background-color:#9400D3;
+	
 }
 
   
 .form-control::-moz-placeholder {
-  color:#000;
+	background-color:#9400d3;
+	color:#000;
 }
 .form-control:-ms-input-placeholder {
-  color:#000;
+	background-color:#9400d3;
+	color:#000;
 }
 .form-control::-webkit-input-placeholder {
-  color:#000;
+	background-color:#9400d3;
+	color:#000;
 }
