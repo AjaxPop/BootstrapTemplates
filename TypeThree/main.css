@@ -39,10 +39,17 @@ nav {
 
 .stylizeSearchBar{
 	display:inline-block;
-	width:60%;
+	width:75%;
 	background-color:#9400D3;
 }
 
-.stylizeInput{
-	background-color:#9400D3;
+  
+.form-control::-moz-placeholder {
+  color:#000;
+}
+.form-control:-ms-input-placeholder {
+  color:#000;
+}
+.form-control::-webkit-input-placeholder {
+  color:#000;
 }
