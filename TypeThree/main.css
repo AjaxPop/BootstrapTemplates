@@ -11,8 +11,12 @@ nav {
 	background-color:#9400D3;
 }
  
+ .marginLeft {
+	margin-left:65px;
+}
+ 
 .user{
-	font-size:25px;
+	font-size:30px;
 	position: absolute;
 	top:15px;
 	right:60px;
@@ -25,9 +29,9 @@ nav {
 	height:30px;
 	top:5px;
 }
-
+  
 .shoppingCart{
-	font-size:25px;
+	font-size:30px;
 	position: absolute;
 	top:15px;
 	right:1px;
