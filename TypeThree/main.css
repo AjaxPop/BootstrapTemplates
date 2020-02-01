@@ -11,5 +11,21 @@ nav {
 	background-color:#9400D3;
 }
 
+.fa-user{
+	font-size:25px;
+	position: absolute;
+	top:30px;
+	right:55px;
+}
+
+
+
+
+.fa-shopping-cart{
+	font-size:25px;
+	position: absolute;
+	top:30px;
+	right:5px;
+}
 
   
