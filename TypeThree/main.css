@@ -15,17 +15,22 @@ nav {
 	font-size:25px;
 	position: absolute;
 	top:30px;
-	right:55px;
+	right:65px;
 }
 
-
-
+.whiteLine {
+	position: absolute;
+	border-left:4px solid white;
+	right:50px;
+	height:40px;
+	top:15px;
+}
 
 .fa-shopping-cart{
 	font-size:25px;
 	position: absolute;
 	top:30px;
-	right:5px;
+	right:1px;
 }
 
   
