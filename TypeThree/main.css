@@ -11,7 +11,7 @@ nav {
 	background-color:#9400D3;
 }
  
-.User{
+.user{
 	font-size:25px;
 	position: absolute;
 	top:15px;
@@ -33,4 +33,16 @@ nav {
 	right:1px;
 }
 
-  
+.stylizeButton{
+	background-color:#00d394;
+}
+
+.stylizeSearchBar{
+	display:inline-block;
+	width:60%;
+	background-color:#9400D3;
+}
+
+.stylizeInput{
+	background-color:#9400D3;
+}
