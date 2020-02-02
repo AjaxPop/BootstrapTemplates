@@ -1,4 +1,5 @@
-/*  image1 is from https://pixabay.com/photos/food-kitchen-cook-tomatoes-dish-1932466/  */
+/*  Icpm https://pixabay.com/illustrations/icon-position-map-location-icon-2073973/
+/* 	image1 is from https://pixabay.com/photos/food-kitchen-cook-tomatoes-dish-1932466/  */
 /*  image2 is from https://pixabay.com/photos/jam-jars-fruit-natural-food-428094/*/
 /*  image3 is from https://pixabay.com/photos/kitchen-work-restaurant-cook-chef-731351/  */
 /*  image4 is from https://pixabay.com/photos/bakery-bread-baker-apron-baking-1868396/  */
@@ -9,6 +10,10 @@ body{
 
 nav {
 	background-color:#3fd300;
+}
+
+.foodIcon{
+	margin-left:-30px;
 }
  
  .marginLeft {
