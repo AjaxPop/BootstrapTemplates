@@ -50,3 +50,14 @@ nav {
 	background-color#2a00d3;
 }
 
+.stylizeDiv{
+	position: absolute;
+	height:1000px;
+	background-color:#A9A9A9;
+}
+
+#sidebar{
+	position: absolute;
+	top: 90px;
+	height:1000px;
+}
