@@ -9,7 +9,7 @@ body{
 }
 
 nav {
-	background-color:#3fd300;
+	background-color:#037f51;
 }
 
 .foodIcon{
@@ -53,11 +53,11 @@ nav {
 .stylizeDiv{
 	position: absolute;
 	height:1000px;
-	background-color:#A9A9A9;
+	background-color:#c3c3c3;
 }
 
 #sidebar{
 	position: absolute;
-	top: 90px;
+	top: 95px;
 	height:1000px;
 }
