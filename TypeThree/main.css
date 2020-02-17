@@ -56,15 +56,16 @@ nav {
 	background-color:#c3c3c3;
 }
 
- .sideBarItem{
-	 
-}
-
-#sidebar{
+ #sidebar{
 	position: absolute;
 	top: 95px;
 	height:1000px;
+
 }
+
+ .sideBarElements{
+	 margin-top:50px;
+ }
 
 
 
