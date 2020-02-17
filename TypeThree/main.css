@@ -47,7 +47,7 @@ nav {
 }	
 
 .btn-primary.custom-btn {
-	background-color#2a00d3;
+	background-color:#2a00d3;
 }
 
 .stylizeDiv{
@@ -64,11 +64,17 @@ nav {
 }
 
  .sideBarElements{
-	 margin-top:100px;
+	 margin-top:125px;
 	  
  }
 
-
-
+#bakery{
+	position:absolute;
+	width:780px;
+	height:600px;
+	right:480px;
+	top:120px;
+	
+}
 
 
