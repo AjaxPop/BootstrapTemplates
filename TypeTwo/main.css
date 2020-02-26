@@ -1,54 +1,104 @@
-body {
-	background-color: #00B2B2;
-	 
+body{
+	background-color:#c3c3c3;
 }
+
 
 nav {
-	background-color: #0D76F8;
+	background-color:#09B562;
 }
 
-/* Stylize sectionOne */
-#clock {
-	position: fixed;
-	width: 600px;
-	height: 340px;
-	left: 0px;
+ 
+.foodIcon{
+	margin-left:-30px;
+}
+ 
+ .marginLeft {
+	margin-left:65px;
+}
+ 
+.user{
+	font-size:30px;
+	position: absolute;
+	top:15px;
+	right:60px;
 }
 
-.sectionOne {
-	position: fixed;
-	padding: 210px 0;
-	left: 0;
-	color: #fff;
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-image: url("images/schrecksee.jpg"); /* Image from https://pixabay.com/photos/mountain-landscape-mountains-2031539/ / */
-	background-repeat: no-repeat;
-	background-size: cover;
-	width: 100%;
+.whiteLine {
+	position: absolute;
+	border-left:4px solid white;
+	right:50px;
+	height:30px;
+	top:5px;
+}
+  
+.shoppingCart{
+	font-size:30px;
+	position: absolute;
+	top:15px;
+	right:1px;
+}
+
+
+.btn-primary.custom-btn {
+	background-color:#2a00d3;
+}
+
+
+/*Stylize sectionOne */
+.sectionOne{
+	position: static;
+	left:40%;
+	width:1440px;
+	height:1200px;
+}
+
+#bakery{
+	position:relative;
+	width:600px;
+	height:550px;
+	right:-20%;
+	margin-top:14%;
  
 }
 
 .sectionOneText {
-	position: fixed;
-	padding: 210px 0;
-	top: -140px;
-	left: 630px;
+	position: relative;
+	right:-18%;
+	top:14%;
+	color:#fff;
 }
 
-#sectionOneButtons {
-	position: fixed;
-	top: 380px;
-	left:870px;
- 
+.sectionOneButtons {
+	position: relative;
+	display:inline-block;
+	right:12%; 
+	top:420px;
 }
 
 /* Stylize sectionTwo */
 .sectionTwo {
-	position: fixed;
-	margin-top: 480px;
-	margin-left: 500px;
+	position: static;
+	left:40%;
+	width:1440px;
+	height:900px;
 }
+
+.sectionTwoText{
+	position: relative;
+	right:-32%; 
+	color:#fff;
+	font-size:3em;
+}
+
+
+.pricesContainer{
+	position: relative;
+	right:-5%;
+	margin-right:31%;
+	margin-left:12%;
+	bottom:-10%;
+}
+
 ul {
 	list-style-type: none;
 }
@@ -89,34 +139,32 @@ hr{
 	 
 }
  
-
 .signUp{
 	margin-top:55px;
-	margin-left:80px;
+	margin-left:60px;
 }
 
 /* Stylize footer  */
 footer{
-	position:fixed;
-	margin-top:740px;
-	width:600em;
-	height:20em;
-	background-color:#00B2B2;
+	position: static;
+	width:1440px;
+	height:300px;
 }
 
-.increaseSize {
-	font-size:25px;
-	margin-top:15px;
-}
- 
- 
-.locationTextCC{
-    text-indent:0.8em; 
+.stylizeCity{
+	  font-weight: 600;
+	  text-indent:1em; 
 }
 
+.increaseIconsSize {
+	  font-size:2.3em;
+}
+ 
+  
 .socialMediaIcons{
-	 margin-left:95em;
-	 margin-top:-185px;
+	 position:relative;
+	 left:60%;	
+	 top:-36%;
 }
  
 .stylizeIcons{
@@ -125,4 +173,20 @@ footer{
 	margin-right:120px; 
 }
 
+.increaseSizeLocation{
+	font-size:1.3em;
+}
 
+.locationInfo{
+	 position:relative;
+	 left:16%;	
+	 top:12%;
+}
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
