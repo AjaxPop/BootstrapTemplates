@@ -52,6 +52,7 @@ nav {
 	height:1200px;
 }
 
+/* Stylize the imag */
 #bakery{
 	position:relative;
 	width:600px;
@@ -91,6 +92,7 @@ nav {
 }
 
 
+/*Stylize the price tables */
 .pricesContainer{
 	position: relative;
 	right:-5%;
@@ -182,11 +184,4 @@ footer{
 	 left:16%;	
 	 top:12%;
 }
- 
- 
- 
- 
- 
-
- 
- 
+  
