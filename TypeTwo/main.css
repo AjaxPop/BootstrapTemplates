@@ -184,4 +184,46 @@ footer{
 	 left:16%;	
 	 top:12%;
 }
-  
+
+
+  /* Media Query for Mobile Devices */
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 400px){
+	  
+	  /*Stylize the price tables */
+	  .priceTable{
+	display: block; 
+    padding:2px;
+    margin:10px;
+ 
+}
+
+
+ 
+
+}
+
+/* Tablets */
+@media only screen 
+  and (min-device-width: 401px) 
+  and (max-device-width: 700px){
+
+}
+
+
+/*  Medium Size Devices(Laptops/Desktops) */
+@media only screen 
+  and (min-device-width: 701px)
+  and (max-device-width: 990px){
+
+}
+
+@media only screen 
+  and (min-device-width: 991px){
+body{
+	overflow-x: hidden;  
+}
+
+  }
+
