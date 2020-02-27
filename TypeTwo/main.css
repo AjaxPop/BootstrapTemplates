@@ -13,7 +13,7 @@ nav {
 }
  
  .marginLeft {
-	margin-left:65px;
+	margin-left:290px;
 }
  
 .user{
@@ -52,15 +52,7 @@ nav {
 	height:1200px;
 }
 
-/* Stylize the imag */
-#bakery{
-	position:relative;
-	width:600px;
-	height:550px;
-	right:-20%;
-	margin-top:14%;
- 
-}
+
 
 .sectionOneText {
 	position: relative;
@@ -142,8 +134,8 @@ hr{
 }
  
 .signUp{
-	margin-top:55px;
-	margin-left:60px;
+	margin-top:58px;
+	margin-left:52px;
 }
 
 /* Stylize footer  */
@@ -190,17 +182,90 @@ footer{
 @media only screen 
   and (min-device-width: 320px) 
   and (max-device-width: 400px){
+
+/*Stylize sectionOne */
+.sectionOne{
+	position: static;
+	left:40%;
+	width:400px;
+	height:650px;
+}
 	  
-	  /*Stylize the price tables */
-	  .priceTable{
-	display: block; 
-    padding:2px;
-    margin:10px;
- 
+/*Stylize the text above the bakery */	  
+.sectionOneText{
+	position: relative;
+	right:0%;
+	top:10%;
+	color:#fff;
+	font-size:25px;
+}	  
+	  
+/* Stylize the imag */
+#bakery{
+	position:relative;
+	width:300px;
+	height:350px;
+	right:0%;
+	margin-top:16%;
+}
+
+.sectionOneButtons {
+	position: relative;
+	display:inline-block;
+	right:-8%; 
+	top:10px;
 }
 
 
+.sectionTwo {
+	position: static;
+	left:40%;
+	width:600px;
+	height:1000px;
+}
  
+.sectionTwoText{
+	position: relative;
+	right:-2%; 
+	color:#fff;
+	font-size:3em;
+}
+
+
+
+/*Stylize the price tables */
+.priceTable{
+	display: block; 
+    margin:10px;
+}
+
+
+/* Stylize footer  */
+footer{
+	position: static;
+	width:1440px;
+	height:100px;
+}
+
+.socialMediaIcons{
+	 position:relative;
+	 left:1%;	
+	 margin-top:100px;	
+}
+
+.signUp{
+	margin-top:50px;
+	margin-left:52px;
+}
+ 
+.locationInfo{
+	position:relative;
+	display: inline-block;
+	margin-right:120px;
+	left:-20px; 
+	bottom:-200px;	
+}
+
 
 }
 
@@ -208,7 +273,92 @@ footer{
 @media only screen 
   and (min-device-width: 401px) 
   and (max-device-width: 700px){
+	  
+	  /*Stylize sectionOne */
+.sectionOne{
+	position: static;
+	left:40%;
+	width:400px;
+	height:650px;
+}
+	  
+/*Stylize the text above the bakery */	  
+.sectionOneText {
+	position: relative;
+	right:0%;
+	top:8%;
+	color:#fff;
+	font-size:30px;
+}	  
+	  
+/* Stylize the imag */
+#bakery{
+	position:relative;
+	width:380px;
+	height:350px;
+	right:0%;
+	margin-top:15%;
+}
 
+.sectionOneButtons {
+	position: relative;
+	display:inline-block;
+	right:-25%; 
+	top:10px;
+}
+
+
+.sectionTwo {
+	position: static;
+	left:40%;
+	width:600px;
+	height:1000px;
+}
+ 
+.sectionTwoText{
+	position: relative;
+	right:-14%; 
+	color:#fff;
+	font-size:3em;
+}
+
+/*Stylize the price tables */
+.priceTable{
+	display: block; 
+    padding:2px;
+    margin:20px;
+ 
+}
+
+
+.signUp{
+	margin-top:50px;
+	margin-left:52px;
+}
+
+/* Stylize footer  */
+footer{
+	position: static;
+	width:1440px;
+	height:600px;
+}
+
+.locationInfo{
+	position:relative;
+	display: inline-block;
+	top:-2%;
+	margin-right:120px;
+	left:-20px; 
+	margin-bottom:450px;	
+}
+
+.socialMediaIcons{
+	position:relative;
+	display: inline-block;
+	top:35%;
+	left:-28%; 
+}
+	 
 }
 
 
@@ -216,14 +366,325 @@ footer{
 @media only screen 
   and (min-device-width: 701px)
   and (max-device-width: 990px){
+	    /*Stylize sectionOne */
+.sectionOne{
+	position: static;
+	left:40%;
+	width:400px;
+	height:650px;
+}
+	  
+/*Stylize the text above the bakery */	  
+.sectionOneText {
+	position: relative;
+	right:-20%;
+	top:14%;
+	color:#fff;
+	font-size:30px;
+}	  
+	  
+/* Stylize the imag */
+#bakery{
+	position:relative;
+	width:500px;
+	height:450px;
+	right:-10%;
+	margin-top:25%;
+}
+
+.sectionOneButtons {
+	position: relative;
+	display:inline-block;
+	right:-40%; 
+	top:10px;
+}
+
+
+.sectionTwo {
+	position: static;
+	left:40%;
+	width:600px;
+	height:1000px;
+}
+ 
+.sectionTwoText{
+	position: relative;
+	right:-28%; 
+	color:#fff;
+	font-size:3em;
+}
+
+/*Stylize the price tables */
+.priceTable{
+	position: relative;
+	display: inline-block;  
+    padding:2px;
+    margin:10px;
+	right:-12%;
+	top:20px;
+}
+
+.signUp{
+	margin-top:50px;
+	margin-left:52px;
+}
+
+
+/* Stylize footer  */
+footer{
+	position: static;
+	width:1440px;
+	height:600px;
+}
+
+.socialMediaIcons{
+	 position:relative;
+	 left:24%;	
+	 margin-top:140px;	
+}
+ 
+.locationInfo{
+	position:relative;
+	display: inline-block;
+	margin-right:120px;
+	left:-20px; 
+	bottom:-350px;	
+}
+	  
 
 }
 
+/*  Large Size Devices(Laptops/Desktops) */
 @media only screen 
-  and (min-device-width: 991px){
+  and (min-device-width: 991px)
+  and (max-device-width: 1300px){
+	  
 body{
 	overflow-x: hidden;  
 }
+ /*Stylize sectionOne */
+.sectionOne{
+	position: static;
+	left:40%;
+	width:500px;
+	height:1200px;
+}
+	  
+/*Stylize the text above the bakery */	  
+.sectionOneText {
+	position: relative;
+	right:-75%;
+	top:14%;
+	color:#fff;
+	font-size:30px;
+}	  
+	  
+/* Stylize the imag */
+#bakery{
+	position:relative;
+	width:500px;
+	height:450px;
+	right:-65%;
+	margin-top:35%;
+}
 
+.sectionOneButtons {
+	position: relative;
+	display:inline-block;
+	right:-95%; 
+	top:10px;
+}
+
+
+.sectionTwo {
+	position: static;
+	width:1640px;
+	height:1200px;
+	 
+}
+ 
+.sectionTwoText{
+	position: relative;
+	top:50px;
+	right:-29%; 
+	color:#fff;
+	font-size:3em;
+}
+
+/*Stylize the price tables */
+.priceTable{
+	position: relative;
+	display: inline-block; 
+    padding:0;
+	margin-left:-260px;
+	top:100px;
+}
+
+.signUp{
+	margin-top:50px;
+	margin-left:52px;
+}
+
+
+/* Stylize footer  */
+footer{
+	position: static;
+	width:1640px;
+	height:600px;
+
+}
+
+.socialMediaIcons{
+	 position:relative;
+	 left:34%;	
+	 margin-top:140px;	
+}
+ 
+.locationInfo{
+	position:relative;
+	display: inline-block;
+	margin-right:120px;
+	left:-20px; 
+	bottom:-350px;	
+}
   }
+
+
+/*  Larger Size Devices(Laptops/Desktops) */
+@media only screen 
+  and (min-device-width: 1301px){
+body{
+	overflow-x: hidden;
+}
+ /*Stylize sectionOne */
+.sectionOne{
+	position: static;
+	left:40%;
+	width:500px;
+	height:1200px;
+}
+	  
+/*Stylize the text above the bakery */	  
+.sectionOneText {
+	position: relative;
+	right:-110%;
+	top:14%;
+	color:#fff;
+	font-size:30px;
+}	  
+	  
+/* Stylize the imag */
+#bakery{
+	position:relative;
+	width:500px;
+	height:450px;
+	right:-90%;
+	margin-top:35%;
+}
+
+.sectionOneButtons {
+	position: relative;
+	display:inline-block;
+	right:-120%; 
+	top:10px;
+}
+
+
+.sectionTwo {
+	position: static;
+	width:1640px;
+	height:1200px;
+	 
+}
+ 
+.sectionTwoText{
+	position: relative;
+	top:50px;
+	right:-38%; 
+	color:#fff;
+	font-size:3em;
+}
+
+/*Stylize the price tables */
+.priceTable{
+	position: relative;
+	display: inline-block; 
+    padding:0;
+	margin-left:-160px;
+	top:100px;
+}
+
+.signUp{
+	margin-top:50px;
+	margin-left:52px;
+}
+
+
+/* Stylize footer  */
+footer{
+	position: static;
+	width:1640px;
+	height:600px;
+
+}
+
+.socialMediaIcons{
+	 position:relative;
+	 left:60%;	
+	 margin-top:140px;	
+}
+ 
+.locationInfo{
+	position:relative;
+	display: inline-block;
+	margin-right:120px;
+	left:-20px; 
+	bottom:-60px;	
+}
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
