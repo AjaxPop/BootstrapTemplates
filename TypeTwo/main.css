@@ -8,6 +8,7 @@ nav {
 }
 
  
+ 
 .foodIcon{
 	margin-left:-30px;
 }
@@ -236,7 +237,8 @@ footer{
 /*Stylize the price tables */
 .priceTable{
 	display: block; 
-    margin:10px;
+    padding:2px;
+    margin:20px;
 }
 
 
@@ -250,7 +252,7 @@ footer{
 .socialMediaIcons{
 	 position:relative;
 	 left:1%;	
-	 margin-top:100px;	
+	 margin-top:230px;	
 }
 
 .signUp{
@@ -346,7 +348,7 @@ footer{
 .locationInfo{
 	position:relative;
 	display: inline-block;
-	top:-2%;
+	top:3%;
 	margin-right:120px;
 	left:-20px; 
 	margin-bottom:450px;	
@@ -354,9 +356,9 @@ footer{
 
 .socialMediaIcons{
 	position:relative;
-	display: inline-block;
-	top:35%;
-	left:-28%; 
+	display: block;
+	top:-45%;
+	left:6px; 
 }
 	 
 }
@@ -377,17 +379,17 @@ footer{
 /*Stylize the text above the bakery */	  
 .sectionOneText {
 	position: relative;
-	right:-20%;
+	right:-7%;
 	top:14%;
 	color:#fff;
-	font-size:30px;
+	font-size:25px;
 }	  
 	  
 /* Stylize the imag */
 #bakery{
 	position:relative;
-	width:500px;
-	height:450px;
+	width:300px;
+	height:300px;
 	right:-10%;
 	margin-top:25%;
 }
@@ -395,7 +397,7 @@ footer{
 .sectionOneButtons {
 	position: relative;
 	display:inline-block;
-	right:-40%; 
+	right:-25%; 
 	top:10px;
 }
 
@@ -409,7 +411,7 @@ footer{
  
 .sectionTwoText{
 	position: relative;
-	right:-28%; 
+	right:-20%; 
 	color:#fff;
 	font-size:3em;
 }
@@ -417,10 +419,10 @@ footer{
 /*Stylize the price tables */
 .priceTable{
 	position: relative;
-	display: inline-block;  
+	display: block;  
     padding:2px;
     margin:10px;
-	right:-12%;
+	right:-4%;
 	top:20px;
 }
 
@@ -437,18 +439,20 @@ footer{
 	height:600px;
 }
 
-.socialMediaIcons{
-	 position:relative;
-	 left:24%;	
-	 margin-top:140px;	
-}
- 
 .locationInfo{
 	position:relative;
-	display: inline-block;
+	display: block;
+	top:3%;
 	margin-right:120px;
 	left:-20px; 
-	bottom:-350px;	
+	margin-bottom:450px;	
+}
+
+.socialMediaIcons{
+	position:relative;
+	display:blockk;
+	top:-50%;
+	left:3px;
 }
 	  
 
@@ -514,10 +518,12 @@ body{
 /*Stylize the price tables */
 .priceTable{
 	position: relative;
-	display: inline-block; 
-    padding:0;
-	margin-left:-260px;
-	top:100px;
+	display: inline-block;  
+    padding:2px;
+    margin:10px;
+	right:360px;
+	top:160px;
+
 }
 
 .signUp{
@@ -545,7 +551,7 @@ footer{
 	display: inline-block;
 	margin-right:120px;
 	left:-20px; 
-	bottom:-350px;	
+	bottom:-70px;	
 }
   }
 
