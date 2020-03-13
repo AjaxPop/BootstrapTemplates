@@ -1,6 +1,6 @@
 # BootstrapTemplates
 
-A collection of bootstrap designs. Each design is intended as a landing page. These designs are available for anyone to use. The project is built with jQuery, Bootstrap 4 and Propper.js.
+A collection of bootstrap designs. Each design is intended as a landing page. These designs are available for anyone to use. 
 
 All images are from Pixabay.com.
 
